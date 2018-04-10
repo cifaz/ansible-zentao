@@ -13,4 +13,3 @@
   shell: /opt/zbox/zbox start
   register: finished
 
-  # TODO 配置文件
